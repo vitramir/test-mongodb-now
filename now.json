@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "test-now",
+  "name": "test-mongodb-now",
   "builds": [
     {
       "src": "index.js",
