@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "test-now",
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@now/node"
+    }
+  ]
+}
